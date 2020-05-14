@@ -1,0 +1,2 @@
+rootProject.name='StatusDownloader'
+include ':app'

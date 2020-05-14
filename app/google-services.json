@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "950909264409",
+    "firebase_url": "https://statusdownloader-796de.firebaseio.com",
+    "project_id": "statusdownloader-796de",
+    "storage_bucket": "statusdownloader-796de.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:950909264409:android:88cfab9e1cb0fd140e8088",
+        "android_client_info": {
+          "package_name": "com.starz.statusdownloader"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "950909264409-3kh1s43mng2kt6tl0cuhq69a4m3c6nr5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.starz.statusdownloader",
+            "certificate_hash": "fa2212ed2e4c5b60fe1f5d4bb63ba8abc07551a1"
+          }
+        },
+        {
+          "client_id": "950909264409-v92sd9hvgmqmqd1o9rmtecuvqcu12n1u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVSu8SX0M477xwFqDck0mt2Vs5TgzHgeo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "950909264409-v92sd9hvgmqmqd1o9rmtecuvqcu12n1u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
